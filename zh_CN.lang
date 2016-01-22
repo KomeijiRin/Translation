@@ -1,0 +1,34 @@
+itemGroup.fairylights=灯笼挂饰
+
+tile.fairy_lights.name=连接用弹性线缆
+
+item.fairy_lights.name=灯笼挂饰
+item.garland.name=玫瑰彩带
+item.tinsel.name=彩带
+
+item.fairy_lights.pattern=样式:
+item.fairy_lights.tight=未雕刻的
+item.fairy_lights.colored_light=%1$s %2$s
+
+item.tinsel.colored=%1$s %2$s
+
+item.light.fairy.name=小灯泡
+item.light.paper.name=纸灯笼
+item.light.orb.name=球形灯
+item.light.flower.name=花灯
+item.light.ornate.name=华灯
+item.light.oil.name=油灯
+item.light.luxo_ball.name=Luxo Ball
+item.light.jack_o_lantern.name=南瓜灯
+item.light.skull.name=骷髅头灯
+item.light.ghost.name=幽灵灯
+item.light.spider.name=蜘蛛灯
+item.light.witch.name=魔术师帽灯
+item.light.weedwood_lantern.name=古木挂灯
+item.light.snowflake.name=雪花灯
+item.light.icicle.name=冰晶灯
+item.light.meteor.name=流星雨灯
+
+item.light.weedwood_lantern.line.0=来自一个黑暗而充满了敌意的世界
+item.light.weedwood_lantern.line.1=更多的关于边境之地的信息请参考下面的地址：
+item.light.weedwood_lantern.line.2=http://bit.ly/TheBetweenlands
